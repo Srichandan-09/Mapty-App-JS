@@ -11,9 +11,6 @@ Check out the <a href="https://srichandan-09.github.io/Mapty-App-JS/" target="_b
   Discover the ultimate workout tracking tool with Mapty - a unique application that utilizes a huge map to log your exercise routes.
 </p>
 
-<p align="center">
-  <img alt="Forkify App" src="images/Mapty-Screenshot.png" width="100%" />
-</p>
 
 ## Features
 
@@ -34,6 +31,14 @@ The user can choose any point on the map and choose between running or cycling. 
 - CSS3
 - HTML5
 - Leaflet Api
+
+<h2 id="screenshots">Project Screenshot</h2>
+
+<p>Feel free to check out the screenshot of my website for a sneak peek into its captivating user interface.</p>
+
+<p align="center">
+  <img alt="Forkify App" src="images/Mapty-Screenshot.png" width="100%" />
+</p>
 
 ## Installation
 
